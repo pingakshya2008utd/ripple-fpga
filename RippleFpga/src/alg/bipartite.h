@@ -1,6 +1,6 @@
 #pragma once
 
-#include "global.h"
+#include "../global.h"
 
 void MinCostBipartiteMatching(
     const vector<vector<pair<int, long>>>& bigraph, size_t num1, size_t num2, vector<pair<int, long>>& res, long& cost);

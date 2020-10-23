@@ -1,4 +1,4 @@
-#include "global.h"
+#include "../global.h"
 #include "pack.h"
 #include "clb2.h"
 

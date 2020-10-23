@@ -1,7 +1,7 @@
 #ifndef _GP_SETTING_H_
 #define _GP_SETTING_H_
 
-#include "global.h"
+#include "../global.h"
 
 enum LBMode { LBModeSimple = 1, LBModeFenceBBox = 2, LBModeFenceRect = 3 };
 

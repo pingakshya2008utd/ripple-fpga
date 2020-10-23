@@ -1,4 +1,4 @@
-#include "db/db.h"
+#include "../db/db.h"
 using namespace db;
 
 void Database::saveDraw(string file) {

@@ -1,6 +1,6 @@
 #include "cong_partition.h"
-#include "patoh.h"
-#include "gp.h"
+#include "../alg/patoh/patoh.h"
+#include "../gp/gp.h"
 
 unsigned Cluster::numNonEmpty;
 unsigned Cluster::numEmpty;

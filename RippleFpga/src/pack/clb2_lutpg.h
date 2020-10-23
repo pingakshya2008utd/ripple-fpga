@@ -1,7 +1,7 @@
 #pragma once
 
 #include "clb_base.h"
-#include "alg/matching.h"
+#include "../alg/matching.h"
 
 class LUTPairGraph {
 private:

@@ -3,8 +3,8 @@
 #include "gp_qsolve.h"
 #include "gp_spread.h"
 #include "gp_main.h"
-#include "global.h"
-#include "lg/lg.h"
+#include "../global.h"
+#include "../lg/lg.h"
 
 int colors[4] = {0xff0000, 0xff9900, 0x009900, 0x00ccff};
 

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "db/db.h"
+#include "../db/db.h"
 
 void AdjAreaByCong(vector<db::Group> &groups);
 

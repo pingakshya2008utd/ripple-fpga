@@ -1,7 +1,7 @@
 #ifndef _GP_DATA_H_
 #define _GP_DATA_H_
 
-#include "db/db.h"
+#include "../db/db.h"
 #include "gp_spread.h"
 
 using namespace db;

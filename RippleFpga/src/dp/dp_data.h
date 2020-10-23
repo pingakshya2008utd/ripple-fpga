@@ -1,10 +1,10 @@
 #ifndef _DP_DP_DATA_H_
 #define _DP_DP_DATA_H_
 
-#include "db/db.h"
-#include "pack/clb.h"
-#include "lgclk/lgclk_data.h"
-#include "cong/cong.h"
+#include "../db/db.h"
+#include "../pack/clb.h"
+#include "../lgclk/lgclk_data.h"
+#include "../cong/cong.h"
 
 using namespace db;
 

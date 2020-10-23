@@ -1,5 +1,5 @@
-#include "pack/clb.h"
-#include "alg/bipartite.h"
+#include "../pack/clb.h"
+#include "../alg/bipartite.h"
 #include "lg_main.h"
 #include "lg_dp_utils.h"
 

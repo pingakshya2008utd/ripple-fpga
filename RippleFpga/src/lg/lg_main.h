@@ -1,7 +1,7 @@
 #ifndef _LG_MAIN_H_
 #define _LG_MAIN_H_
 
-#include "db/db.h"
+#include "../db/db.h"
 #include "./lg_data.h"
 using namespace db;
 

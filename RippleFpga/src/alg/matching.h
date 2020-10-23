@@ -1,7 +1,7 @@
 #ifndef _MATCHING_H_
 #define _MATCHING_H_
 
-#include "db.h"
+#include "../db/db.h"
 using namespace db;
 
 typedef long long s64;

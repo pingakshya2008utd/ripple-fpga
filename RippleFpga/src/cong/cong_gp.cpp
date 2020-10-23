@@ -1,6 +1,6 @@
 #include "cong_gp.h"
-#include "lg/lg_main.h"
-#include "gp/gp.h"
+#include "../lg/lg_main.h"
+#include "../gp/gp.h"
 #include "cong_est_bb.h"
 
 Legalizer* legalizer;

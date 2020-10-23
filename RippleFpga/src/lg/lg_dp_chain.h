@@ -1,10 +1,10 @@
 #ifndef _LG_CHAIN_H_
 #define _LG_CHAIN_H_
 
-#include "db/db.h"
+#include "../db/db.h"
 #include "./lg_data.h"
 #include "./lg_main.h"
-#include "dp/dp_main.h"
+#include "../dp/dp_main.h"
 
 using namespace db;
 

@@ -1,7 +1,7 @@
 #pragma once
 
-#include "global.h"
-#include "utils/draw.h"
+#include "../global.h"
+#include "../utils/draw.h"
 #include "instance.h"
 #include "site.h"
 #include "net.h"

@@ -2,7 +2,7 @@
 #define _PACK_H_
 
 #include "../db/db.h"
-#include "dp/dp_data.h"
+#include "../dp/dp_data.h"
 
 using namespace db;
 

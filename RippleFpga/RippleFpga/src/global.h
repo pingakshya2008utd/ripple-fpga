@@ -1,6 +1,6 @@
 #ifndef _GLOBAL_H_
 #define _GLOBAL_H_
-
+/*Pingu Modiefied 10/22/2020, 8:27pm*/
 #include <thread>
 #include <iostream>
 #include <fstream>
