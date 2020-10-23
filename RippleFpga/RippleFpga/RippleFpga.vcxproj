@@ -86,7 +86,12 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\libgd\libgd-gd-2.3.0\src;C:\dlfcn-win32-master\src;C:\boost\boost_1_63_0;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalUsingDirectories>C:\dlfcn-win32-master\src;C:\libgd\libgd-gd-2.3.0\src;C:\boost\boost_1_63_0;%(AdditionalUsingDirectories)</AdditionalUsingDirectories>
     </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>C:\dlfcn-win32-master\src;C:\boost\boost_1_63_0;C:\libgd\libgd-gd-2.3.0\src;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>

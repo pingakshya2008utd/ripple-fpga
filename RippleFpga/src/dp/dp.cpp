@@ -1,8 +1,8 @@
-#include "db/db.h"
+#include "../db/db.h"
 #include "dp_main.h"
 #include "dp_data.h"
-#include "pack/pack.h"
-#include "global.h"
+#include "../pack/pack.h"
+#include "../global.h"
 
 using namespace db;
 

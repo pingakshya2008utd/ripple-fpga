@@ -1,8 +1,8 @@
 #ifndef _DP_DP_MAIN_H_
 #define _DP_DP_MAIN_H_
 
-#include "db/db.h"
-#include "pack/clb.h"
+#include "../db/db.h"
+#include "../pack/clb.h"
 #include "./dp_data.h"
 
 using namespace db;
